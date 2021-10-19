@@ -1,0 +1,6 @@
+drwxrwxr-x  2 admin  staff  64  1 jan  2077 test0
+drwxr--r--  2 admin  staff  64  1 jan  2077 test1
+-rw-rw-r--  1 admin  staff   0  1 jan  2077 test2
+drwxrwxr-x  2 admin  staff  64  1 jan  2077 test3
+-rw-rw-r--  1 admin  staff   0  1 jan  2077 test4
+d--x--x--x  2 admin  staff  64  1 jan  2077 test5

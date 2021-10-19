@@ -1,0 +1,1 @@
+iMac-ITA-6:EX08 admin$ cat /etc/passwd > password.txt 

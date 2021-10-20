@@ -1,1 +1,1 @@
-sed 's/Elliot/Tyrell/g' paragraphe.txt
+sed -i ''  's/Elliot/Tyrell/g' elliot.txt
